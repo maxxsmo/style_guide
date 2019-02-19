@@ -215,19 +215,19 @@ a {
   transform: translate(-50%, -50%);
 }
 
-.card-body {
+.card-body-2 {
   text-align:center;  
   padding: 15px 20px; 
   box-sizing: border-box;
 }
 
-.card-header {
+.card-header-2 {
   text-align:center;  
   padding: 15px 20px; 
   box-sizing: border-box;
 }
 
-.card-footer {
+.card-footer-2 {
   display: flex; 
   flex-direction: row;
   padding: 15px 20px; 
